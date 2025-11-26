@@ -18,6 +18,7 @@ This dashboard is designed to analyze sales and profit performance using Power B
 - Sample Superstore Dataset (Kaggle)
 
 ## Files in Repository
+- `Dataset`
 - `PowerBI_Dashboard.pbix` – Power BI source file
 - `screenshot` – ScreenShot of dashboard
 - `README.md` – Project documentation
